@@ -1,6 +1,6 @@
 # Regression-LinearRegression
 
-Regression is used to predict the values in continuous 
+Regression is used to predict the values in continuous varaiables
 
 Linear regression is a linear relationship between input and output.
 
